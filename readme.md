@@ -1,1 +1,14 @@
 # Cyber security
+name | status
+---| ----
+password knowledge vs Action  | yes 
+Ransome ware attack  | yes
+IOT attacks     | yes 
+Cloud attack  | no
+Physubg attack | no 
+Block Chan & cryptocurrency | no 
+Software Vulnerabilities | yes
+Machine Learning & AI attacks | no
+BYOD Policies  | yes
+Inside attacks | yes
+Outdated hardware | no 
