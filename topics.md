@@ -5,7 +5,7 @@
 - [x] IOT attacks    
 - [ ] Cloud attack  
 - [ ] Phishing attack 
-- [ ] Block Chan & cryptocurrency
+- [x] Block Chan & cryptocurrency
 - [x] Software Vulnerabilities
 - [ ] Machine Learning & AI attacks 
 - [x] BYOD Policies  
