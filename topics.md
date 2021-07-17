@@ -1,8 +1,8 @@
 # Topics List
 name | status
 ---| ----
-- [x] password knowledge vs Action  | yes 
-- [ ] Ransome ware attack  | yes
+[x] password knowledge vs Action  | yes 
+[ ] Ransome ware attack  | yes
 IOT attacks     | yes 
 Cloud attack  | no
 Phishing attack | no 
