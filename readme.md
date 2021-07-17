@@ -5,7 +5,7 @@ password knowledge vs Action  | yes
 Ransome ware attack  | yes
 IOT attacks     | yes 
 Cloud attack  | no
-Physubg attack | no 
+Phishing attack | no 
 Block Chan & cryptocurrency | no 
 Software Vulnerabilities | yes
 Machine Learning & AI attacks | no
