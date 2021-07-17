@@ -1,6 +1,5 @@
 # Topics List
-name | status
----| ----
+
 - [x] password knowledge vs Action  
 - [x] Ransome ware attack  
 - [x] IOT attacks    
