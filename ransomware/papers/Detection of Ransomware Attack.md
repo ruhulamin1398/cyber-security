@@ -10,5 +10,12 @@ https://link.springer.com/chapter/10.1007/978-981-15-0790-8_2
 
 
 -------------
+Summary
+=========
+1. understand the ransomeware  threat
+2. discuss recent detection techniques 
+3. highlights the need of a solution using ML algorithm for the detection engine
+
+
 
 
